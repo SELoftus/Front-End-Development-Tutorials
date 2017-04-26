@@ -9,14 +9,13 @@ body {
 }
 
 .box {
-    position: relative; 
-    margin: auto; 
+    position: relative;
+    margin: auto;
     display: block;
     margin-top: 8%;
     width: 600px;
     height: 420px;
     background: none;
-    border: solid 1px red; /*for testing*/
 }
 
 .head {
@@ -35,7 +34,7 @@ body {
     position: absolute;
     background: #A6BECF; /*light gray*/
     border-radius: 50%;
-    z-index: 2; /*indicates depth of div on 'z' axis*/   
+    z-index: 2; /*indicates depth of div on 'z' axis*/
 }
 
 .ear-left {
